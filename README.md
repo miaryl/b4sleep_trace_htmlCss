@@ -1,4 +1,4 @@
-## coding practice: HTML & CSS
+# Coding practice: HTML & CSS
 
 still hard for me layout webpage, so practice tracing.
 
